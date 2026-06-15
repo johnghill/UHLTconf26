@@ -3,7 +3,7 @@ This repo provides a resource for educators who wish to introduce undergraduate 
 
 # How to obtain?
 ### Git CLI
-`git clone https://githib.com/johnghill/UHLTconf26`
+`git clone https://github.com/johnghill/UHLTconf26`
 ### Manual Downloads
 1. Download `.zip` from the menus
 2. Download any individual file displayed in the grid above.
